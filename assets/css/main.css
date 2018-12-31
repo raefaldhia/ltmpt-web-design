@@ -1,0 +1,17 @@
+.nav {
+    background: #0070bb;
+}
+.nav .nav-item .nav-link {
+    color: white;
+}
+.nav .nav-item .active{
+    background: #2e2e92;
+}
+
+.nav .nav-item .nav-link.active:hover {
+    color: white;
+}
+
+.nav .nav-item .nav-link:hover {
+    color: black;
+}
